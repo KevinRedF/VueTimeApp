@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="title">Build test</h1>
+    <h1 class="title">Vue Time App</h1>
     <q-input rounded outlined bottom-slots v-model="userInput" label="Username" class="input">
       <template v-slot:prepend>
         <q-icon name="account_circle" />
