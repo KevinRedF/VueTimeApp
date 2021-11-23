@@ -7,7 +7,7 @@
       <q-icon name="bar_chart" class="data-icon" />
     </router-link>
     <div class="header">
-      <h1 class="title">Vue Time App</h1>
+      <h1 class="title">Vue Issue 1</h1>
       <h2 class="date">{{ currentDate() }}</h2>
     </div>
     <div class="activity-container">
